@@ -18,9 +18,9 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>ISI.DENGAN.BUNDLE.ID.APP</string>
+        <string>com.dwidasa.mb.jtrust</string>
         <key>bundle-version</key>
-        <string>ISI.VERSI.APP</string>
+        <string>1.1.2</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
